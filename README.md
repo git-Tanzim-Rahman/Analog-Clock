@@ -4,7 +4,7 @@ A simple analog clock by following the tutorial of Web Dev Simplified on YouTube
 The clock shows the current time similar to a physical analog clock using hours, minutes and seconds. The clock hands move smoothly and is updated automatically every second to show the correct time.
 # Languages used:
 
-To structure the clock face, the three hands, and the 12 numbers I have used HTNL.
+To structure the clock face, the three hands, and the 12 numbers I have used HTML.
 
 CSS is used to design the circular clock face, using its custom properties and rotation I position the numbers around the circle and style each hand with different sizes and colors.
 
